@@ -51,6 +51,7 @@ input::placeholder {
 
 input[type='checkbox'] {
   margin: 20px;
+  cursor: pointer;
 }
 
 .add {
